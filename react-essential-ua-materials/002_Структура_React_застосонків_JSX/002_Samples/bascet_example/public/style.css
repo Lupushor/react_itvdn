@@ -1,0 +1,38 @@
+#root {
+  padding-top: 30px;
+  
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+  background: #f1f1f1;
+}
+
+.goods-field::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.goods-block {
+  width: 250px;
+  margin: 1%;
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 5%;
+  float: left;
+  text-align: center;
+}
+
+.goods-block img {
+  max-width: 300px;
+  max-height:150px;
+  display: block;
+  margin: 20px auto;
+}
+
+.goods-block .add-to-cart{
+  color: #8f8f8f;
+}

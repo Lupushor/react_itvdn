@@ -1,0 +1,51 @@
+[
+    {
+        "articul": "1121",
+        "title": "iPhone 14",
+        "cost": 1000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN6wlD9UJ5OA5LGw0q2PgWKVhWgCbpBlvTw&usqp=CAU"
+    },
+    {
+        "articul": "1123",
+        "title": "MacBook Pro 13",
+        "cost": 1200,
+        "image": "http://images.musicstore.de/images/1280/apple-macbook-pro-13-silber-128gb-1-4ghz-touchbar_1_PCM0015883-000.jpg"
+    },
+    {
+        "articul": "3321",
+        "title": "AirPods",
+        "cost": 160,
+        "image": "https://img01.ztat.net/article/spp-media-p1/78db03712c224799b3297f19f14b948e/4e9d6ab8755f484f9411a889fc3b4b54.jpg?imwidth=762"
+    }
+    ,
+    {
+        "articul": "0932",
+        "title": "IMac 24",
+        "cost": 1600,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-24-blue-selection-hero-202104?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1617492405000"
+    },
+    {
+        "articul": "1121",
+        "title": "iPhone 14",
+        "cost": 1000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXN6wlD9UJ5OA5LGw0q2PgWKVhWgCbpBlvTw&usqp=CAU"
+    },
+    {
+        "articul": "1123",
+        "title": "MacBook Pro 13",
+        "cost": 1200,
+        "image": "http://images.musicstore.de/images/1280/apple-macbook-pro-13-silber-128gb-1-4ghz-touchbar_1_PCM0015883-000.jpg"
+    },
+    {
+        "articul": "3321",
+        "title": "AirPods",
+        "cost": 160,
+        "image": "https://img01.ztat.net/article/spp-media-p1/78db03712c224799b3297f19f14b948e/4e9d6ab8755f484f9411a889fc3b4b54.jpg?imwidth=762"
+    },
+    {
+        "articul": "0932",
+        "title": "IMac 24",
+        "cost": 1600,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/imac-24-blue-selection-hero-202104?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1617492405000"
+    }
+]
