@@ -1,16 +1,21 @@
 import "./App.css";
+import Parent from "./components/Parent";
 
 function App() {
-  const students = [
-    { name: "Олександр", surname: "Іванов", age: 21 },
-    { name: "Іван", surname: "Петров", age: 20 },
-    { name: "Петро", surname: "Сидоров", age: 22 },
-    { name: "Микола", surname: "Петров", age: 23 },
-    { name: "Ігор", surname: "Іванов", age: 24 },
-  ];
+  let user = {
+    name: "Jahn",
+    surname: "Smith",
+  };
+
+  let x = 1;
+  let y = [1, 2, 3, 4, 5];
+
   return (
     <>
-      <p style={{ color: "red", fontStyle: "italic" }}>lorem lorem</p>
+      <h1>Text text</h1>
+      <p>drsabrbkoulm87;m97nevrg365ni7l78b</p>
+
+      <Parent data={user} forX={x} forY={y} />
     </>
   );
 }

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Material 1",
+    "body": "Description 1",
+    "href": "https://material1.com"
+  },
+  {
+    "title": "Material 2",
+    "body": "Description 2",
+    "href": "https://material2.com"
+  },
+  {
+    "title": "Material 3",
+    "body": "Description 3",
+    "href": "https://material3.com"
+  }
+]
